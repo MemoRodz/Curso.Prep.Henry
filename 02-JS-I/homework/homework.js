@@ -281,7 +281,7 @@ function esVocal(letra){
   }
   else
   {
-    respuesta = "Datos icorrecto";
+    respuesta = "Dato incorrecto";
   }
   return respuesta;
 }
