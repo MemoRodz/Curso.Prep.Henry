@@ -28,7 +28,7 @@ const nuevoModulo = 21 % 5 === 1;
 function devolverString(str) {
   // "Return" la string provista: str
   // Tu código:
-  return 'Está es tu cadena: ' + str;
+  return str;
 }
 
 function suma(x, y) {
@@ -281,7 +281,7 @@ function esVocal(letra){
   }
   else
   {
-    respuesta = "Datos icorrecto.";
+    respuesta = "Datos icorrecto";
   }
   return respuesta;
 }
