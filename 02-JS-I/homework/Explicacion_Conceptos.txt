@@ -1,0 +1,13 @@
+Explicar los siguientes conceptos:
+
+	*Variables:
+Son "espacios de memoria" para almacenar valores; son como canastas o baldes donde se pueden almacenar los diferentes valores que se van usando durante la ejecución del programa.
+	*Strings:
+Son los tipos de valores que almacenan las letras, simbolos y los "números", estos últimos no como cantidades sino como "texto".
+	*Funciones (argumentos, `return`):
+Son fragmentos de código para realizar acciones o cálculos específicos que se pueden usar en todo el código del programa, evitando la repetición del mismo. Ahorrando espacio, líneas de código y tiempo de escritura de código.
+	*Declaraciones `if`:
+Son sentencias para a evaluación lógica de una expresión, para comparar los valores de las variables contra condiciones que se deben cumplir o que se deben evitar durante la ejecución del programa.
+	*Valores booleanos (`true`, `false`):
+Son los valores del resultado de comparación entre condiciones o valores. El nombre hace referencia a la Álgebra Boole y a la lógica proposicional.
+
