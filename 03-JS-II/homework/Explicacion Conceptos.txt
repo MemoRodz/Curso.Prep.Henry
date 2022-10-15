@@ -1,0 +1,7 @@
+Explicación Conceptos
+
+* `for`
+Es una sentencia para codificar bloques que instrucciones (pueden ser combinación de sentencias y expresiones) que se repiten hasta que se cumplen ciertas condiciones establecidas o esperadas.
+
+* `&&`, `||`, `!`
+Son operadores lógicos que nos permiten comparar el cumplimiento de las condiciones establecidas o esperadas dentro del código.
