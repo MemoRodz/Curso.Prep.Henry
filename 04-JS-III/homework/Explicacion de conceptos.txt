@@ -1,0 +1,4 @@
+Explicación de conceptos
+
+	* Arrays
+Los Arrays (en inglés) o Arreglos (en español) se pueden entender como listas de elementos; es decir, variables que pueden contener un conjunto de datos o valores pero también pueden contener arreglos, aumentando la complejidad de estos.
