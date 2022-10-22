@@ -1,0 +1,18 @@
+Explicación de conceptos
+
+	* Objetos
+Son estructuras de datos que permiten almacenar datos de diferentes tipos: números, cadenas, arreglos, funciones, objetos, etc.
+
+	* Propiedades
+Las propiedades son datos almacenados en los objetos que permiten la definición de estos mismos.
+
+	* Métodos
+Los métodos son propiedades de los objetos de tipo "función" que permiten la interacción de los objetos dentro del código.
+
+	* Bucle `for…in`
+Es la forma de interactar con las propiedades de los objetos, al referenciar las propiedades "dentro (in)" del objeto.
+
+	* Notación de puntos vs notación de corchetes
+La notación de puntos permite acceder directamente al valor de la propiedad o "llamar" al método directamente por el nombre de la misma y con la notación de corchetes se debe hacer por la "cadena del nombre" de la propiedad o método.
+
+
