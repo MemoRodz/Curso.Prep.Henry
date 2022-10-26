@@ -1,0 +1,5 @@
+Explicación de conceptos
+
+* Funciones Callback
+	
+	Callback de una función se usa para `utilizar` otra función como tal (como función) dentro de otra función.
