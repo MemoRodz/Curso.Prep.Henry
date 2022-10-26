@@ -1,0 +1,10 @@
+Explicación de conceptos
+
+
+* `prototype`
+
+El `prototype` de un objeto es el tipo de `objeto` primario del objeto actual.
+
+* _Constructors_ (de Clases)
+
+Los `_Constructors_` son los iniciadores de `objetos`.
